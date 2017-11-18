@@ -1,0 +1,10 @@
+/Users/prabeshmanandhar/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp2.0/SortingAlgorithms.csproj.CoreCompileInputs.cache
+/Users/prabeshmanandhar/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp2.0/SortingAlgorithms.AssemblyInfoInputs.cache
+/Users/prabeshmanandhar/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp2.0/SortingAlgorithms.AssemblyInfo.cs
+/Users/prabeshmanandhar/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp2.0/SortingAlgorithms.deps.json
+/Users/prabeshmanandhar/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp2.0/SortingAlgorithms.runtimeconfig.json
+/Users/prabeshmanandhar/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp2.0/SortingAlgorithms.runtimeconfig.dev.json
+/Users/prabeshmanandhar/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp2.0/SortingAlgorithms.dll
+/Users/prabeshmanandhar/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp2.0/SortingAlgorithms.pdb
+/Users/prabeshmanandhar/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp2.0/SortingAlgorithms.dll
+/Users/prabeshmanandhar/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp2.0/SortingAlgorithms.pdb

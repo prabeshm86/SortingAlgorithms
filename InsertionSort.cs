@@ -6,7 +6,7 @@ namespace SortingAlgorithms
 {
     class InsertionSort : Sorter
     {
-        public int[] Sort(int[] input)
+        public int[] Sort(int[] arr)
         {
             for (int i = 0; i < arr.Length; i++)
             {
